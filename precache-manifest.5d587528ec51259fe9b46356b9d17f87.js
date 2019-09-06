@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "4c98cb06c1f4cc9c9b74",
+    "revision": "ec8bdb7d7e17c94ba3eb",
     "url": "./static/css/main.75cee840.chunk.css"
   },
   {
-    "revision": "4c98cb06c1f4cc9c9b74",
-    "url": "./static/js/main.04adbe71.chunk.js"
+    "revision": "ec8bdb7d7e17c94ba3eb",
+    "url": "./static/js/main.f50317c1.chunk.js"
   },
   {
     "revision": "629b1da3e653ecde4780",
     "url": "./static/js/runtime~main.0dbf20b7.js"
   },
   {
-    "revision": "71346d7782e79eb0d791",
+    "revision": "03a5a2537015ff656d2f",
     "url": "./static/css/2.9030eb7f.chunk.css"
   },
   {
-    "revision": "71346d7782e79eb0d791",
-    "url": "./static/js/2.e6c6411c.chunk.js"
+    "revision": "03a5a2537015ff656d2f",
+    "url": "./static/js/2.04b2cd65.chunk.js"
   },
   {
     "revision": "a0f7ba4cae8acea6031556d95dafb394",
@@ -216,8 +216,8 @@ self.__precacheManifest = [
     "url": "./assets/yandex-browser-manifest.json"
   },
   {
-    "revision": "740a6c03d6732e41731f0a814f9616c1",
-    "url": "./f20449849e34c4605ec7.worker.js"
+    "revision": "6364781e23a5a092ba166994375515b6",
+    "url": "./7299c072186216cc9873.worker.js"
   },
   {
     "revision": "6fdb722c94434811f89a68eafc4531f8",
@@ -232,19 +232,19 @@ self.__precacheManifest = [
     "url": "./static/media/icons-16.cd1a2669.woff"
   },
   {
-    "revision": "14279fa7b78ac2230a015925b603a1f7",
-    "url": "./static/media/icons-20.14279fa7.eot"
-  },
-  {
     "revision": "90247cfdde1bd7b76d804a797d5dec56",
     "url": "./static/media/icons-20.90247cfd.ttf"
+  },
+  {
+    "revision": "14279fa7b78ac2230a015925b603a1f7",
+    "url": "./static/media/icons-20.14279fa7.eot"
   },
   {
     "revision": "657723dc996cf0ae6b4c6110f5d4ddab",
     "url": "./static/media/icons-20.657723dc.woff"
   },
   {
-    "revision": "d4c14e567726c7b52c97a32891e59452",
+    "revision": "147398759e90b1d1a5abc27f6d3c5ff1",
     "url": "./index.html"
   }
 ];
