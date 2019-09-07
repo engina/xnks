@@ -1,7 +1,7 @@
 {
   "main.css": "./static/css/main.9e49b823.chunk.css",
-  "main.js": "./static/js/main.a9c54392.chunk.js",
-  "main.js.map": "./static/js/main.a9c54392.chunk.js.map",
+  "main.js": "./static/js/main.463e32b0.chunk.js",
+  "main.js.map": "./static/js/main.463e32b0.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.0dbf20b7.js",
   "runtime~main.js.map": "./static/js/runtime~main.0dbf20b7.js.map",
   "static/css/2.9030eb7f.chunk.css": "./static/css/2.9030eb7f.chunk.css",
@@ -59,7 +59,7 @@
   "assets/yandex-browser-50x50.png": "./assets/yandex-browser-50x50.png",
   "assets/yandex-browser-manifest.json": "./assets/yandex-browser-manifest.json",
   "index.html": "./index.html",
-  "precache-manifest.b479239642a920adc513a6143fece870.js": "./precache-manifest.b479239642a920adc513a6143fece870.js",
+  "precache-manifest.c64341ff9a8f32712041ccb8830fc6f3.js": "./precache-manifest.c64341ff9a8f32712041ccb8830fc6f3.js",
   "service-worker.js": "./service-worker.js",
   "static/css/2.9030eb7f.chunk.css.map": "./static/css/2.9030eb7f.chunk.css.map",
   "static/css/main.9e49b823.chunk.css.map": "./static/css/main.9e49b823.chunk.css.map",
