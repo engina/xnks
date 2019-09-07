@@ -220,6 +220,10 @@ self.__precacheManifest = [
     "url": "./7299c072186216cc9873.worker.js"
   },
   {
+    "revision": "14279fa7b78ac2230a015925b603a1f7",
+    "url": "./static/media/icons-20.14279fa7.eot"
+  },
+  {
     "revision": "6fdb722c94434811f89a68eafc4531f8",
     "url": "./static/media/icons-16.6fdb722c.eot"
   },
@@ -238,10 +242,6 @@ self.__precacheManifest = [
   {
     "revision": "90247cfdde1bd7b76d804a797d5dec56",
     "url": "./static/media/icons-20.90247cfd.ttf"
-  },
-  {
-    "revision": "14279fa7b78ac2230a015925b603a1f7",
-    "url": "./static/media/icons-20.14279fa7.eot"
   },
   {
     "revision": "a377575520864b817fd575edf788a58a",
