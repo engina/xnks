@@ -1,5 +1,5 @@
 {
-  "main.css": "./static/css/main.75cee840.chunk.css",
+  "main.css": "./static/css/main.9e49b823.chunk.css",
   "main.js": "./static/js/main.a9c54392.chunk.js",
   "main.js.map": "./static/js/main.a9c54392.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.0dbf20b7.js",
@@ -59,9 +59,9 @@
   "assets/yandex-browser-50x50.png": "./assets/yandex-browser-50x50.png",
   "assets/yandex-browser-manifest.json": "./assets/yandex-browser-manifest.json",
   "index.html": "./index.html",
-  "precache-manifest.9454faef2b2b87235f81be79d8410e3a.js": "./precache-manifest.9454faef2b2b87235f81be79d8410e3a.js",
+  "precache-manifest.7ab100b870ad00145542438371553539.js": "./precache-manifest.7ab100b870ad00145542438371553539.js",
   "service-worker.js": "./service-worker.js",
   "static/css/2.9030eb7f.chunk.css.map": "./static/css/2.9030eb7f.chunk.css.map",
-  "static/css/main.75cee840.chunk.css.map": "./static/css/main.75cee840.chunk.css.map",
+  "static/css/main.9e49b823.chunk.css.map": "./static/css/main.9e49b823.chunk.css.map",
   "static/media/blueprint-icons.css": "./static/media/icons-20.90247cfd.ttf"
 }
