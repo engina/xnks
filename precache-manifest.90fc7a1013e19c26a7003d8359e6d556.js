@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "50acf139a6e2775829fd",
-    "url": "./static/css/main.f5c7c8ea.chunk.css"
+    "revision": "94912c1dc6ef66ca1442",
+    "url": "./static/css/main.406956b6.chunk.css"
   },
   {
-    "revision": "50acf139a6e2775829fd",
-    "url": "./static/js/main.78e74282.chunk.js"
+    "revision": "94912c1dc6ef66ca1442",
+    "url": "./static/js/main.5392a415.chunk.js"
   },
   {
     "revision": "7453ea1c1fc142d0303b",
     "url": "./static/js/runtime~main.c2a8b198.js"
   },
   {
-    "revision": "d3005948c79c401439cc",
+    "revision": "781c992118e6ad13e632",
     "url": "./static/css/2.9030eb7f.chunk.css"
   },
   {
-    "revision": "d3005948c79c401439cc",
-    "url": "./static/js/2.c62f9f78.chunk.js"
+    "revision": "781c992118e6ad13e632",
+    "url": "./static/js/2.1390c54f.chunk.js"
   },
   {
     "revision": "a0f7ba4cae8acea6031556d95dafb394",
@@ -216,8 +216,8 @@ self.__precacheManifest = [
     "url": "./assets/yandex-browser-manifest.json"
   },
   {
-    "revision": "d415bd8b4fee860b78fb01bf4b3495b5",
-    "url": "./b47343f9781960ee7683.worker.js"
+    "revision": "0760a10a0b06ebf12aa5456937daf7cb",
+    "url": "./df54b62ead28e535b84d.worker.js"
   },
   {
     "revision": "6fdb722c94434811f89a68eafc4531f8",
@@ -228,12 +228,12 @@ self.__precacheManifest = [
     "url": "./static/media/icons-16.5fa1b8f2.ttf"
   },
   {
-    "revision": "14279fa7b78ac2230a015925b603a1f7",
-    "url": "./static/media/icons-20.14279fa7.eot"
-  },
-  {
     "revision": "cd1a26696ebf17a89545a3f9067d7028",
     "url": "./static/media/icons-16.cd1a2669.woff"
+  },
+  {
+    "revision": "14279fa7b78ac2230a015925b603a1f7",
+    "url": "./static/media/icons-20.14279fa7.eot"
   },
   {
     "revision": "90247cfdde1bd7b76d804a797d5dec56",
@@ -244,12 +244,12 @@ self.__precacheManifest = [
     "url": "./static/media/icons-20.657723dc.woff"
   },
   {
-    "revision": "84c944f2a3752c1f0416557ca1321956",
-    "url": "./static/media/material.84c944f2.svg"
+    "revision": "08f2c598c2131124f11cc028b1156c08",
+    "url": "./static/media/material.08f2c598.svg"
   },
   {
-    "revision": "762706acfaa11e59b52ce9a49330e23c",
-    "url": "./static/media/mic.762706ac.svg"
+    "revision": "8e2c9e16f5fe8157c0cb3251087aec9c",
+    "url": "./static/media/mic.8e2c9e16.svg"
   },
   {
     "revision": "bf95b8bf74ccc0e342462976d293bef8",
@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "./static/media/surface.7e1580fe.svg"
   },
   {
-    "revision": "2344d4b5d24fefac6b6932acbd6a4fd3",
+    "revision": "de6d1c7b751b84108bd38debcaf94102",
     "url": "./index.html"
   }
 ];
