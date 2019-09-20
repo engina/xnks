@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "13b831becf049cad82f0",
+    "revision": "e727b9ccbac9ebbfb999",
     "url": "./static/css/main.406956b6.chunk.css"
   },
   {
-    "revision": "13b831becf049cad82f0",
-    "url": "./static/js/main.06bd6687.chunk.js"
+    "revision": "e727b9ccbac9ebbfb999",
+    "url": "./static/js/main.a66c7871.chunk.js"
   },
   {
     "revision": "7453ea1c1fc142d0303b",
@@ -216,24 +216,24 @@ self.__precacheManifest = [
     "url": "./assets/yandex-browser-manifest.json"
   },
   {
-    "revision": "0d3c6d32bf33b1d398c0f2296f889236",
-    "url": "./a6cc85b1d04202406550.worker.js"
-  },
-  {
-    "revision": "6fdb722c94434811f89a68eafc4531f8",
-    "url": "./static/media/icons-16.6fdb722c.eot"
+    "revision": "21a2e417b63f966d057582d743f6a32e",
+    "url": "./fe0628ede527e1531dfc.worker.js"
   },
   {
     "revision": "5fa1b8f25b4aa8787f70d5b6b7f0b90f",
     "url": "./static/media/icons-16.5fa1b8f2.ttf"
   },
   {
-    "revision": "cd1a26696ebf17a89545a3f9067d7028",
-    "url": "./static/media/icons-16.cd1a2669.woff"
-  },
-  {
     "revision": "90247cfdde1bd7b76d804a797d5dec56",
     "url": "./static/media/icons-20.90247cfd.ttf"
+  },
+  {
+    "revision": "6fdb722c94434811f89a68eafc4531f8",
+    "url": "./static/media/icons-16.6fdb722c.eot"
+  },
+  {
+    "revision": "cd1a26696ebf17a89545a3f9067d7028",
+    "url": "./static/media/icons-16.cd1a2669.woff"
   },
   {
     "revision": "14279fa7b78ac2230a015925b603a1f7",
@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "./static/media/surface.7e1580fe.svg"
   },
   {
-    "revision": "a3598aa8c43555e7f7dd84132271aec7",
+    "revision": "41aedd1a0e209670af3f35fc2e56bf29",
     "url": "./index.html"
   }
 ];
