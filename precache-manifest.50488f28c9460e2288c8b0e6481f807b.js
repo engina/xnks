@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "4cf9aea206f637e8b7e0",
-    "url": "./static/css/main.da04da62.chunk.css"
+    "revision": "d953560c9164f364ab3f",
+    "url": "./static/css/main.2c96b7c2.chunk.css"
   },
   {
-    "revision": "4cf9aea206f637e8b7e0",
-    "url": "./static/js/main.35d2daea.chunk.js"
+    "revision": "d953560c9164f364ab3f",
+    "url": "./static/js/main.f6a03134.chunk.js"
   },
   {
     "revision": "7453ea1c1fc142d0303b",
     "url": "./static/js/runtime~main.c2a8b198.js"
   },
   {
-    "revision": "454de852af173efad5a8",
+    "revision": "210b6a16100bea5c681f",
     "url": "./static/css/2.9030eb7f.chunk.css"
   },
   {
-    "revision": "454de852af173efad5a8",
-    "url": "./static/js/2.340bfa42.chunk.js"
+    "revision": "210b6a16100bea5c681f",
+    "url": "./static/js/2.16f594f4.chunk.js"
   },
   {
     "revision": "a0f7ba4cae8acea6031556d95dafb394",
@@ -216,16 +216,8 @@ self.__precacheManifest = [
     "url": "./assets/yandex-browser-manifest.json"
   },
   {
-    "revision": "cba92d94411bd17b562ae26401c6c910",
-    "url": "./797dc59467b81178889b.worker.js"
-  },
-  {
-    "revision": "cd1a26696ebf17a89545a3f9067d7028",
-    "url": "./static/media/icons-16.cd1a2669.woff"
-  },
-  {
-    "revision": "14279fa7b78ac2230a015925b603a1f7",
-    "url": "./static/media/icons-20.14279fa7.eot"
+    "revision": "4b17887cabd16b0e9262fecd48f62ccc",
+    "url": "./01f2c17fd243838aa165.worker.js"
   },
   {
     "revision": "6fdb722c94434811f89a68eafc4531f8",
@@ -238,6 +230,14 @@ self.__precacheManifest = [
   {
     "revision": "90247cfdde1bd7b76d804a797d5dec56",
     "url": "./static/media/icons-20.90247cfd.ttf"
+  },
+  {
+    "revision": "14279fa7b78ac2230a015925b603a1f7",
+    "url": "./static/media/icons-20.14279fa7.eot"
+  },
+  {
+    "revision": "cd1a26696ebf17a89545a3f9067d7028",
+    "url": "./static/media/icons-16.cd1a2669.woff"
   },
   {
     "revision": "657723dc996cf0ae6b4c6110f5d4ddab",
@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "./static/media/surface.7e1580fe.svg"
   },
   {
-    "revision": "af62c718153c0f9def470937411657cb",
+    "revision": "2bda5ce1ff9d1db6ec9491db49a387a2",
     "url": "./index.html"
   }
 ];
