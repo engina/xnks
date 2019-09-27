@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d953560c9164f364ab3f",
+    "revision": "b00c040c1a6c25b97576",
     "url": "./static/css/main.2c96b7c2.chunk.css"
   },
   {
-    "revision": "d953560c9164f364ab3f",
-    "url": "./static/js/main.f6a03134.chunk.js"
+    "revision": "b00c040c1a6c25b97576",
+    "url": "./static/js/main.44087d09.chunk.js"
   },
   {
     "revision": "7453ea1c1fc142d0303b",
     "url": "./static/js/runtime~main.c2a8b198.js"
   },
   {
-    "revision": "210b6a16100bea5c681f",
+    "revision": "63c6289b84e2c3c1d431",
     "url": "./static/css/2.9030eb7f.chunk.css"
   },
   {
-    "revision": "210b6a16100bea5c681f",
-    "url": "./static/js/2.16f594f4.chunk.js"
+    "revision": "63c6289b84e2c3c1d431",
+    "url": "./static/js/2.1774de34.chunk.js"
   },
   {
     "revision": "a0f7ba4cae8acea6031556d95dafb394",
@@ -216,32 +216,32 @@ self.__precacheManifest = [
     "url": "./assets/yandex-browser-manifest.json"
   },
   {
-    "revision": "4b17887cabd16b0e9262fecd48f62ccc",
-    "url": "./01f2c17fd243838aa165.worker.js"
-  },
-  {
-    "revision": "6fdb722c94434811f89a68eafc4531f8",
-    "url": "./static/media/icons-16.6fdb722c.eot"
+    "revision": "6512cf1fa85d24cd759a1d24baaf6284",
+    "url": "./87e06ae61207c5c77d28.worker.js"
   },
   {
     "revision": "5fa1b8f25b4aa8787f70d5b6b7f0b90f",
     "url": "./static/media/icons-16.5fa1b8f2.ttf"
   },
   {
-    "revision": "90247cfdde1bd7b76d804a797d5dec56",
-    "url": "./static/media/icons-20.90247cfd.ttf"
+    "revision": "cd1a26696ebf17a89545a3f9067d7028",
+    "url": "./static/media/icons-16.cd1a2669.woff"
+  },
+  {
+    "revision": "6fdb722c94434811f89a68eafc4531f8",
+    "url": "./static/media/icons-16.6fdb722c.eot"
+  },
+  {
+    "revision": "657723dc996cf0ae6b4c6110f5d4ddab",
+    "url": "./static/media/icons-20.657723dc.woff"
   },
   {
     "revision": "14279fa7b78ac2230a015925b603a1f7",
     "url": "./static/media/icons-20.14279fa7.eot"
   },
   {
-    "revision": "cd1a26696ebf17a89545a3f9067d7028",
-    "url": "./static/media/icons-16.cd1a2669.woff"
-  },
-  {
-    "revision": "657723dc996cf0ae6b4c6110f5d4ddab",
-    "url": "./static/media/icons-20.657723dc.woff"
+    "revision": "90247cfdde1bd7b76d804a797d5dec56",
+    "url": "./static/media/icons-20.90247cfd.ttf"
   },
   {
     "revision": "08f2c598c2131124f11cc028b1156c08",
@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "./static/media/surface.7e1580fe.svg"
   },
   {
-    "revision": "2bda5ce1ff9d1db6ec9491db49a387a2",
+    "revision": "35139881b67c73e832cc4633b1b5dd4e",
     "url": "./index.html"
   }
 ];
