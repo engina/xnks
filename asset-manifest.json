@@ -59,7 +59,7 @@
   "assets/yandex-browser-50x50.png": "./assets/yandex-browser-50x50.png",
   "assets/yandex-browser-manifest.json": "./assets/yandex-browser-manifest.json",
   "index.html": "./index.html",
-  "precache-manifest.2fd939e0a6452f5c54df9ac7030d734a.js": "./precache-manifest.2fd939e0a6452f5c54df9ac7030d734a.js",
+  "precache-manifest.2d9fcde276b65f910e53b0b25a21b19e.js": "./precache-manifest.2d9fcde276b65f910e53b0b25a21b19e.js",
   "service-worker.js": "./service-worker.js",
   "static/css/2.9030eb7f.chunk.css.map": "./static/css/2.9030eb7f.chunk.css.map",
   "static/css/main.2c96b7c2.chunk.css.map": "./static/css/main.2c96b7c2.chunk.css.map",
